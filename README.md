@@ -2,7 +2,7 @@
 
 ### Overview
 
-This DJ application is a project developeed as a final submission for the module Object Oriented Programming's final project. It is built using the Juice framework in c++. Currently, it has been build for macOS only.
+This DJ application is a project developed as a final submission for the module Object Oriented Programming. It is built using the Juice framework in c++. Currently, it has been build for macOS only.
 
 ### Features
 
